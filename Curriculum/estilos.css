@@ -1,0 +1,71 @@
+
+body {background:rgb(255, 255, 255)}
+
+h1 {font-weight: bold;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+h2 {font-weight: bold;
+font-size: 18px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+hgroup {font-weight: bold; font-size: 15px; font-family: Verdana, Geneva, Tahoma, sans-serif;   
+background:rgb(60, 122, 102, 0.603); text-align: center}
+
+p {font-size: 15px;
+font-family: 'Times New Roman', Times, serif;}
+
+
+body {font-weight: bold;}
+
+header, section, footer, aside, nav, article, body, head {display: block}
+
+body {text-align: left;}
+
+
+.agrupar {width: 950px;
+margin: 15px auto;
+border: 1px solid black;
+background-color: rgba(255, 255, 255, 0.719);
+background-position: initial;}
+
+
+
+.header {padding: 20px;
+border: 1px solid black;}
+
+.header h1 {text-align: center;}
+.header h2 {text-align: center;}
+    
+.menu {padding: 15px; text-align: center;}
+.menu li {padding: 5px; list-style: none; font-size: 16; font-weight: bold; font-family: Verdana, Geneva, Tahoma, sans-serif; display: inline-block; border: 1px solid black;}
+
+.seccion { padding: 50px;
+margin: auto;
+width: 600px;
+border: 1px solid black;
+float: left;}              
+
+.lateral {width: 200px;
+float: left;
+margin: 20px ;}
+
+
+.pie {clear: both;}
+
+aside {text-align: center;}
+
+legend {text-align: center; font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; border: 1px solid black;}
+
+fieldset {border: 1px solid black;}
+
+body {background:url(fondo.jpg);}
+
+
+
+
+
+
+
